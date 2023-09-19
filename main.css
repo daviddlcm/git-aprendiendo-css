@@ -1,0 +1,30 @@
+*{
+    font-size: 30px;
+    font-family: 'DynaPuff', cursive;
+}
+h2{
+    background-color: red;
+    display: inline-block;
+    padding: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 2em;
+    box-shadow: 30px 20px 10px 10px #000;
+    text-shadow: 2px 2px 7px #fff,2px 2px 7px #fff;
+    transform: rotate();
+}
+ .caja1{
+    width: 200px;
+    height: 200px;
+    background: red;
+    margin: auto;
+    outline: 10px solid blue;
+    box-sizing: content-box;
+ }
+ .caja2{
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    margin: auto;
+ }
